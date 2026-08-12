@@ -1,0 +1,32 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# APK files
+*.apk
+
+# Allure reports
+allure-report/
+allure-results/
+
+# Screenshots & artifacts
+screenshots/
+build/
+
+# Gradle
+.gradle/
+build/
+
+# Phone counter (auto-incremented)
+.phone-counter

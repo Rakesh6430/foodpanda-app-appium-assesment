@@ -1,0 +1,8 @@
+/.gradle/
+/build/
+*.iml
+.idea/
+
+# Local config overrides (if you add them later)
+.env
+
